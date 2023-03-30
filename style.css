@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins' , sans-serif;
+    box-sizing: border-box;
+    }
+    
+     .weather-icon{
+        width: 40px;
+        margin-top:10px;
+     }
+     body {
+       background-image: url("images/picture.jpg");
+      
+     }
+    
+     .my-3
+     {
+       color: rgba(236, 238, 241, 0.774);
+     }
+       
